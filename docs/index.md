@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Bil Abror"
   text: "Full Stack Developer"
-  tagline: Let's make something impectfull together
+  tagline: Let's make something impactful together
   actions:
     - theme: brand
       text: My Projects
